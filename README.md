@@ -1,5 +1,5 @@
 # PeerChat
-![Banner](banner.png)
+![Banner](https://github.com/alexdavis-dev/peerchat-demo/banner.png)
 ### A terminal-based P2P chat application using libp2p and Golang that uses a Kademlia DHT and the IPFS network for peer discovery and routing
 
 **Version: 1.1.0**  
